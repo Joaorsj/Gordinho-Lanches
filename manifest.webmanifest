@@ -8,8 +8,8 @@
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#14100c",
-  "theme_color": "#14100c",
+  "background_color": "#160d05",
+  "theme_color": "#160d05",
   "icons": [
     {
       "src": "https://lucassricardo95.github.io/motor/estavel/img/icon-192.png",
